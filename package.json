@@ -1,14 +1,13 @@
 {
-  "name": "discord-bot",
+  "name": "discord-fivem-bot",
   "version": "1.0.0",
-  "description": "Discord bot with multiple features",
+  "description": "Discord bot for FiveM server management",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
     "discord.js": "^14.11.0",
-    "mongoose": "^7.3.1",
-    "dotenv": "^16.3.1"
+    "dotenv": "^16.0.3"
   }
 }
