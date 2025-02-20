@@ -1,0 +1,18 @@
+{
+  "token": "YOUR_BOT_TOKEN_HERE",
+  "prefix": "/"
+}
+```
+
+### Step 4: Review the Code
+- The file is named `config.json` as specified.
+- The JSON content matches the provided structure and values.
+- The syntax is valid JSON.
+- The file is complete and functional as a configuration file.
+
+### Final Output
+```
+{
+  "token": "YOUR_BOT_TOKEN_HERE",
+  "prefix": "/"
+}
